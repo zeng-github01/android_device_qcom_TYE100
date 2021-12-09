@@ -1,0 +1,3 @@
+# android_device_qcom_TYE100
+讯飞X1Pro设备树
+本设备树使用twrpdtgen生成
