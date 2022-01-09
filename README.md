@@ -15,6 +15,3 @@ The iFLYTEK X1 Pro (codenamed _"TYE100"_).
 | Display                 | 1920 x 1200 pixels                                                                           |
 | Camera (Back)(Main)     | 8 MP                                                                                |
 | Camera (Front)          | 2 MP                                                                                                         |
-
-## Device picture
-![TYE100](https://www.wanwupai.com/upload/product/20190707-1/88ba9f530735cf05e6d53aea3e8c7b0d.jpg)
