@@ -6,3 +6,7 @@
 #
 
 LOCAL_PATH := device/qcom/TYE100
+
+PRODUCT_PACKAGES += \
+    qcom_decrypt \
+    qcom_decrypt_fbe
