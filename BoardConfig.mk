@@ -70,6 +70,7 @@ TW_CRYPTO_USE_SYSTEM_VOLD := \
     keymaster-3-0-qti \
     qseecomd \
     servicemanager
+TW_CRYPTO_SYSTEM_VOLD_MOUNT := vendor
 
 # TWRP Configuration
 TW_HAS_DOWNLOAD_MODE := true
