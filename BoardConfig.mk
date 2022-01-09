@@ -84,3 +84,6 @@ TW_DEFAULT_LANGUAGE := zh_CN
 #Debug
 TARGET_USES_LOGD := true
 TWRP_INCLUDE_LOGCAT := true
+
+# Fstab
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery.fstab
